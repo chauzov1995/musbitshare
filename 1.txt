@@ -1,0 +1,14 @@
+582A-00C8
+EF0491113A0905B7DD61
+pitt5@resursm.ru
+
+c:\Volumeid.exe c: 582A-00C8
+
+
+
+userid=kochergin@resursm.ru
+attivazione=CED739DB2CC42D320EF4
+c:\Volumeid.exe c: FFFF-0007
+c:\Volumeid.exe c: FFFF-0009
+
+968 376 155
